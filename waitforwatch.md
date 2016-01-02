@@ -13,3 +13,9 @@
 3. [gala](https://github.com/belab/gala)
 
     还是个游戏。看起来支持 Qt 4 和 Qt 5。
+
+4. [codesnippets-joona](https://github.com/jpetrell/codesnippets-joona)
+
+    Code snippets for UI programming blog http://www.joona.net
+
+    QtQuick 的 UI 编程
